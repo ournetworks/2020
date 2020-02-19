@@ -15,7 +15,9 @@ This repository has organizing materials for the Our Networks 2020, for any ques
 Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2020/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly(ish) planning call using [`meet.jit.si/ournetworks`](https://meet.jit.si/ournetworks)*  during a 1.5 hour timeslot on **Saturdays 12:00-13:30 ET**:
 - [25 Jan, 13:30 – 15:00](./notes/2020-01-25-check-in.md)
 - [15 Feb, 14:00 – 16:00](./notes/2020-02-15-planning-meeting.md)
-- 
+- 29 Feb, 12:00 – 13:30
+- 14 Mar, 12:00 – 13:30
+- 28 Mar, 12:00 – 13:30
 
 
 ## Milestones
@@ -23,6 +25,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 Our current milestones for organizing are below (also on our [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics)):
 
 - 01/25 Kickoff call 
+- 03/01 Announce Date
 
 
 ## Organizers
@@ -61,4 +64,4 @@ _We are grateful to the [First Nations House](https://www.studentlife.utoronto.c
 
 ## Materials License
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks 2019</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks 2020</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
