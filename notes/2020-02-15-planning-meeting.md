@@ -58,4 +58,5 @@
 - [ ] dc: add dates to calendar 
 - [ ] dc: draft orga invite email 
 - [ ] dc: prepare for next meeting: orga responsibilities, milestones
-    
+- [ ] all: add photos to: https://share.mayfirst.org/f/5874287
+- [ ] gi+dc: jam on site on IPFS    
