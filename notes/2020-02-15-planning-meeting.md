@@ -43,6 +43,7 @@
 ## Capacity, Organizer?
 
 - Areas: Exhibition, Social media, Website, Design, Vision/CFP, Mesh(?), Social, Swag, Sponsorship, Livestream
+- Concern with Ben gone we've lost a lot of capacity around livestream (and ties to mesh communities)
 - Could see 1-2 other organizers joining team to ensure we have capacity.
 - Decision: invite two folks, looking for one with avail mostly in Toronto. Hopefully they could attend our next call!
 
