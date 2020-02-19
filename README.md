@@ -14,7 +14,7 @@ This repository has organizing materials for the Our Networks 2020, for any ques
 
 Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2020/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly(ish) planning call using [`meet.jit.si/ournetworks`](https://meet.jit.si/ournetworks)*  during a 1.5 hour timeslot on **Saturdays 12:00-13:30 ET**:
 - [25 Jan, 13:30 – 15:00](./notes/2020-01-25-check-in.md)
-- 15 Feb, 14:00 – 16:00
+- [15 Feb, 14:00 – 16:00](./notes/2020-02-15-planning-meeting.md)
 - 
 
 
