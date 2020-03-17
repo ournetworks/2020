@@ -34,21 +34,9 @@ Our main organizing email is orga@ournetworks.ca. Organizers (currntly) are:
 
 - garry (gh: [@garrying](https://github.com/garrying))
 - sarah friend (gh: [@ana0](https://github.com/ana0))
-- dcwalk (gh: [@dcwalk](https://github.com/dcwalk))
-
-And their area of responsibilities:
-- Presenters
-- Attendee / Registration
-- Volunteers
-- Catering
-- A/V
-- Code of Conduct
-- Swag Production
-- Social Media
-- Swag
-- Social Events
-- Design
-
+- dc (gh: [@dcwalk](https://github.com/dcwalk))
+- mauve (gh: [@dRangerMauve](https://github.com/RangerMauve))
+- amelia (gh" [@eggfroufrou](https://github.com/eggfroufrou))
 
 ## Code of Conduct
 
