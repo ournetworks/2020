@@ -17,7 +17,9 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [15 Feb, 14:00 – 16:00](./notes/2020-02-15-planning-meeting.md)
 - [29 Feb, 12:00 – 13:30](./notes/2020-02-29-planning-meeting.md)
 - [14 Mar, 12:00 – 13:30](./notes/2020-03-14-planning-meeting.md)
+- [21 Mar, 12:00 – 13:30](./notes/2020-03-21-planning-meeting.md)
 - 28 Mar, 12:00 – 13:30
+- 
 
 
 ## Milestones
@@ -37,6 +39,7 @@ Our main organizing email is orga@ournetworks.ca. Organizers (currntly) are:
 - dc (gh: [@dcwalk](https://github.com/dcwalk))
 - mauve (gh: [@dRangerMauve](https://github.com/RangerMauve))
 - amelia (gh" [@eggfroufrou](https://github.com/eggfroufrou))
+
 
 ## Code of Conduct
 
