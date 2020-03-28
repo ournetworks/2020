@@ -19,7 +19,12 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [14 Mar, 12:00 – 13:30](./notes/2020-03-14-planning-meeting.md)
 - [21 Mar, 12:00 – 13:30](./notes/2020-03-21-planning-meeting.md)
 - 28 Mar, 12:00 – 13:30
-- 
+- 11 Apr, 12:00 – 13:30
+- 25 Apr, 12:00 – 13:30
+- 09 May, 12:00 – 13:30
+- 23 May, 12:00 – 13:30
+- 01 Jun, 12:00 – 13:30
+- 08 Jun, 12:00 – 13:30
 
 
 ## Milestones
@@ -28,17 +33,31 @@ Our current milestones for organizing are below (also on our [calendar](https://
 
 - 01/25 Kickoff call 
 - 03/01 Announce Date
+- 03/29 Theme and CFP announced
+- 04/04 Sponsorship package, budget finalized 
+- 04/04 Grant applications submitted
+- **05/??** Delivery of designs
+- 05/11 Website Relaunch
+- 06/01 CFP closes
+- 06/10 Submission decisions
+- 06/16 Registration launched
+- 06/16 Initial program released
+- **06/26** First-wave registration packages shipped
+- 07/10 Activations Kickoff (as early as)
+- 07/23 Last day registration packages shipped
+- 08/03 Virtual Load in
+- 08/07 Our Networks 2020
 
 
 ## Organizers
 
-Our main organizing email is orga@ournetworks.ca. Organizers (currntly) are:
+Our main organizing email is orga@ournetworks.ca, 2020 organizers are:
 
 - garry (gh: [@garrying](https://github.com/garrying))
 - sarah friend (gh: [@ana0](https://github.com/ana0))
 - dc (gh: [@dcwalk](https://github.com/dcwalk))
 - mauve (gh: [@dRangerMauve](https://github.com/RangerMauve))
-- amelia (gh" [@eggfroufrou](https://github.com/eggfroufrou))
+- amelia (gh: [@eggfroufrou](https://github.com/eggfroufrou))
 
 
 ## Code of Conduct
