@@ -56,7 +56,7 @@ Our main organizing email is orga@ournetworks.ca, 2020 organizers are:
 - garry (gh: [@garrying](https://github.com/garrying))
 - sarah friend (gh: [@ana0](https://github.com/ana0))
 - dc (gh: [@dcwalk](https://github.com/dcwalk))
-- mauve (gh: [@dRangerMauve](https://github.com/RangerMauve))
+- mauve (gh: [@RangerMauve](https://github.com/RangerMauve))
 - amelia (gh: [@eggfroufrou](https://github.com/eggfroufrou))
 
 
