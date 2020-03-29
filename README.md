@@ -18,13 +18,13 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [29 Feb, 12:00 – 13:30](./notes/2020-02-29-planning-meeting.md)
 - [14 Mar, 12:00 – 13:30](./notes/2020-03-14-planning-meeting.md)
 - [21 Mar, 12:00 – 13:30](./notes/2020-03-21-planning-meeting.md)
-- 28 Mar, 12:00 – 13:30
+- [28 Mar, 12:00 – 13:30](./notes/2020-03-28-planning-meeting.md)
 - 11 Apr, 12:00 – 13:30
 - 25 Apr, 12:00 – 13:30
 - 09 May, 12:00 – 13:30
 - 23 May, 12:00 – 13:30
-- 01 Jun, 12:00 – 13:30
-- 08 Jun, 12:00 – 13:30
+- 06 Jun, 12:00 – 13:30
+- 13 Jun, 12:00 – 13:30
 
 
 ## Milestones
@@ -40,8 +40,8 @@ Our current milestones for organizing are below (also on our [calendar](https://
 - 05/11 Website Relaunch
 - 06/01 CFP closes
 - 06/10 Submission decisions
-- 06/16 Registration launched
-- 06/16 Initial program released
+- 06/15 Registration launched
+- 06/15 Initial program released
 - **06/26** First-wave registration packages shipped
 - 07/10 Activations Kickoff (as early as)
 - 07/23 Last day registration packages shipped
