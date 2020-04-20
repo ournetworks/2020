@@ -19,7 +19,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [14 Mar, 12:00 – 13:30](./notes/2020-03-14-planning-meeting.md)
 - [21 Mar, 12:00 – 13:30](./notes/2020-03-21-planning-meeting.md)
 - [28 Mar, 12:00 – 13:30](./notes/2020-03-28-planning-meeting.md)
-- 11 Apr, 12:00 – 13:30
+- [18 Apr, 12:00 – 13:30](./notes/2020-04-18-planning-meeting.md)
 - 25 Apr, 12:00 – 13:30
 - 09 May, 12:00 – 13:30
 - 23 May, 12:00 – 13:30
