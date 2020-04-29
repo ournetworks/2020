@@ -36,13 +36,13 @@ Our current milestones for organizing are below (also on our [calendar](https://
 - 03/29 Theme and CFP announced
 - 04/04 Sponsorship package, budget finalized 
 - 04/04 Grant applications submitted
-- **05/??** Delivery of designs
-- 05/11 Website Relaunch
+- **05/09** Delivery of designs
+- 05/18 Website Relaunch
 - 06/01 CFP closes
 - 06/10 Submission decisions
 - 06/15 Registration launched
 - 06/15 Initial program released
-- **06/26** First-wave registration packages shipped
+- **06/29** First-wave registration packages shipped
 - 07/10 Activations Kickoff (as early as)
 - 07/23 Last day registration packages shipped
 - 08/03 Virtual Load in
