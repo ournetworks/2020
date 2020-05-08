@@ -2,9 +2,9 @@
 
 :date: **Date:** Wed, Apr 29, 2020 @ 16:00-17:00 ET  
 :family: **Attendance:**  
-    - Michael
-    - Mauve
-    - Dawn 
+    - Michael  
+    - Mauve  
+    - Dawn   
 
 ## Notes 
 
