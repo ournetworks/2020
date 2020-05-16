@@ -71,6 +71,7 @@
 - garry:
     - Social/break/intersitial space
 
+Looking ahead:  
 - Places:
   - Minecraft server?
       - have to buy account 
@@ -203,7 +204,7 @@
 - [ ] dc: to paste in
   - [ ] others add theirs in!
 - [ ] sarah: emailing other sponsors (info in pipeline)
-- [ ] dc: keep following up with three lead sponsors
-- [ ] dc Follow up on Wendy dweb stuff? and whether we're pooling resources
+- [ ] dc keep following up with three lead sponsors
+- [ ] dc follow up on Wendy dweb stuff? and whether we're pooling resources
 - [ ] sarah add some sponsorship opps
-- [ ] dc Toronto-based orgs
+- [ ] dc advertise to Toronto-based orgs
