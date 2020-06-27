@@ -4,8 +4,10 @@
 :raising_hand: **Participation:** [`jitsi.hypha.coop/ournetworks`](https://jitsi.hypha.coop/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)    
 :notebook: **Notes:** [`https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit`](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 :family: **Attendance:**  
-
-
+- Garry
+- Mauve
+- DC
+- Sarah
 
 # Agenda
 
@@ -33,23 +35,19 @@
             - dc make sure all notes in same place
             - mauve synthesis
             - pair after June 13 to make a proposal for us to agree on
-
 - Sponsors
     - #todo dc FOSS responders, banking info to ISOC
     - Still lower than our low end if we get the two it looks like
-
 - Registration
     - Can we have a donate model? 
     - "Pay what you can here" for most free stuff 
     - Info for how to support/donate
     - Have an Our Networks coin on the blockchain, allow speculation on Our Networks tickets 
     - #todo need to do a quick scan of other tools? Eventbrite, OpenCollective
-
 - Program
     - distributing an ICS file (or a semi-private calender)
     - using shortlinks and updating call links close to event
     - registration for "public events" in additoin to registering to gain access to everything
-
 - Take on feature comparison across videoconferencing?
     - #todo Sarah
 
@@ -57,13 +55,10 @@
 
 DC: 
 - Sponsorship
-
 Sarah:
-- Respond to Kira 
-
-
+- Respond to Kira
 Mauve: 
-- nothing for today
+- Nothing for today
 
 # TODOs
 
