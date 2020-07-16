@@ -2,7 +2,9 @@ Hello [Presenter Name(s)],
 
 Thank you for your submission [Session]: [URL]
 
-Regretfully and after careful deliberation, the organizing team has decided to postpone Our Networks 2020 a month.
+We are pleased to confirm your session has been accepted! But we have additional news:
+
+After careful deliberation, the organizing team has decided to postpone Our Networks 2020 a month.
 
 This year has held a lot of surprises, and planning and event in the midst of COVID-19 has encompassed many of them. Despite managing some of the uncertainty by transitioning online, many aspects of the event have been slower to coalesce in 2020 than in years prior. Rather than push ahead with the original dates and a more rushed event, we've decided to slow down and take the time required to ensure we deliver the best version possible of our first fully-online conference.
 
