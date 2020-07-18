@@ -2,7 +2,7 @@
 
 :date: **Date:** Sat, Jul 27, 2020 @ 12:00-13:30 ET  
 :raising_hand: **Participation:** [`jitsi.hypha.coop/ournetworks`](https://jitsi.hypha.coop/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)    
-:notebook: **Notes:** [`https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit`](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+:notebook: **Notes:** [`https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit`](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)  
 :family: **Attendance:**  
 - garry
 - mauve
