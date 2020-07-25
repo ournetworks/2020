@@ -26,7 +26,9 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [30 May, 12:00 – 13:30](./notes/2020-05-30-planning-meeting.md)
 - [06 Jun, 12:00 – 13:30](./notes/2020-06-06-planning-meeting.md)
 - 13 Jun, 12:00 – 13:30 SUBMISSION REVIEW
-- 27 Jun, 12:00 – 13:30
+- [27 Jun, 12:00 – 13:30](./notes/2020-06-27-planning-meeting.md)
+- 04 Jul, 12:00 – 13:30
+- [18 Jul, 12:00 – 13:30](./notes/2020-07-18-planning-meeting.md)
 - 04 Jul, 12:00 – 13:30
 
 ## Milestones
@@ -41,14 +43,14 @@ Our current milestones for organizing are below (also on our [calendar](https://
 - **05/09** Delivery of designs
 - 05/18 Website Relaunch
 - 06/01 CFP closes
-- 06/10 Submission decisions
-- 06/15 Registration launched
-- 06/15 Initial program released
-- **06/29** First-wave registration packages shipped
-- 07/10 Activations Kickoff (as early as)
-- 07/23 Last day registration packages shipped
-- 08/03 Virtual Load in
-- 08/07 Our Networks 2020
+- 07/10 Submission decisions
+- 07/30 Registration launched
+- 07/30 Initial program released
+- **08/08** First-wave registration packages shipped
+- 08/23 Last day registration packages shipped
+- 09/01 Activations Kickoff (as early as)
+- 09/03 Virtual Load in
+- 09/08 Our Networks 2020
 
 
 ## Organizers
