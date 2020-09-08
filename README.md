@@ -29,11 +29,11 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [27 Jun, 12:00 – 13:30](./notes/2020-06-27-planning-meeting.md)
 - 04 Jul, 12:00 – 13:30
 - [18 Jul, 12:00 – 13:30](./notes/2020-07-18-planning-meeting.md)
-- 04 Jul, 12:00 – 13:30
-- 27 Jul, 12:00 - 13:30
-- 08 Aug, 12:00 - 13:30
+- [25 Jul, 12:00 - 13:30](./notes/2020-07-25-planning-meeting.md)
+- [08 Aug, 12:00 - 13:30](./notes/2020-08-08-planning-meeting.md)
+- 22 Aug, 12:00 - 13:30
 - 29 Aug, 12:00 - 13:30
-- 04 Sep, 12:00 - 13:30
+- [05 Sep, 12:00 - 13:30](./notes/2020-09-05-runthrough.md)
 
 ## Milestones
 
