@@ -1,5 +1,3 @@
-
-
 Hello presenters,
 
 Just a quick update--we've got a draft program to share with another
